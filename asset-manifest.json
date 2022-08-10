@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/newalpha2/static/css/main.5fb725bf.css",
+    "main.js": "/newalpha2/static/js/main.90023769.js",
+    "static/media/loading.gif": "/newalpha2/static/media/loading.f4d71b7e2329eafbaea7.gif",
+    "index.html": "/newalpha2/index.html",
+    "main.5fb725bf.css.map": "/newalpha2/static/css/main.5fb725bf.css.map",
+    "main.90023769.js.map": "/newalpha2/static/js/main.90023769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fb725bf.css",
+    "static/js/main.90023769.js"
+  ]
+}
